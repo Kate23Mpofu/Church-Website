@@ -24,7 +24,7 @@ The project focuses on creating a welcoming and accessible user interface while 
 
 🔗 [View Live Website](https://mugodhi-trust-church-website.netlify.app/)
 
-🔗 [GitHub Repository]()
+🔗 [GitHub Repository](https://github.com/Kate23Mpofu/Church-Website)
 
 ---
 
